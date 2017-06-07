@@ -1,0 +1,18 @@
+/*blue lyft #1B205C
+purple lyft #830C96
+pink lyft #C400BA*/
+body{
+    margin: 0;
+    padding: 0;
+}
+.gradient{
+    background: radial-gradient(#C400BA, #830C96, #1B205C);
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.logo-splash{
+    width: 25vh;
+}
